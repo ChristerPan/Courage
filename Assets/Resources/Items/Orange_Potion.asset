@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 819a687aa5e23a844b8b6b8ab8dd16eb, type: 3}
+  m_Name: Orange_Potion
+  m_EditorClassIdentifier: 
+  itemName: "\u6A58\u8272\u85E5\u6C34"
+  itemImage: {fileID: 21300000, guid: 0a72219c9191c684b8acaf002f3382db, type: 3}
+  itemHeld: 0
+  Equip: 0
+  potion: 1
+  level: 1
+  Attack: 0
+  Defense: 0
+  Speed: 0
+  Health: 0
+  restoreValue: 20
+  price: 10
+  potionId: "\u88DC\u8840"
+  shopInfo: 
+  itemInfo: "\u6062\u5FA920\u9EDE\u751F\u547D\u503C"
+  equipType: 4

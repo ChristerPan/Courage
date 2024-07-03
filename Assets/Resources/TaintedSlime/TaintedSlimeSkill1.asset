@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e4d82a37b7ca6d43a592a2172dc4b95, type: 3}
+  m_Name: TaintedSlimeSkill1
+  m_EditorClassIdentifier: 
+  attackType: 1
+  skillPrefab: []
+  needToCheck: 0
+  scriptableBuff: {fileID: 11400000, guid: de9109e241b1d5346b2ce40c94ff1e11, type: 2}
+  times: 1
+  skillText: {fileID: 4906584703538032947, guid: 53a224ed2adc6fa44b22abd0a18d7da6, type: 3}

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - "\u611F\u61C9\u5340"
+  - "\u96DC\u8CA8\u5E97"
+  - Slot
+  - EquipSlot
+  - Enemy
+  - DeadUnit
+  - FxTemporaire
+  - Target
+  - "\u8349"
+  - "\u77F3\u6D1E\u77F3\u982D\u89F8\u767C\u9EDE"
+  - "\u8349\u53E2\u77F3\u982D\u89F8\u767C\u9EDE"
+  - "\u9435\u5320\u92EA"
+  - "\u77F3\u982D"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - smallMap
+  - Water
+  - UI
+  - test
+  - test2
+  - "\u6709\u6548\u5340"
+  - Player
+  - DamagePoint
+  - Post processing
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character
+    uniqueID: 1717310717
+    locked: 0
+  - name: "\u84CB\u4F4F\u89D2\u8272"
+    uniqueID: 1086653597
+    locked: 0
+  - name: UI
+    uniqueID: 56431249
+    locked: 0
